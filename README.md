@@ -1,5 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-
+## Name: Harini A
+## Reg : 212223040056
 ## AIM:
 To create a warehouse application in salesforce.com
 
